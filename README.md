@@ -5,10 +5,10 @@
 [![HitCount](http://hits.dwyl.io/ashhadulislam/sentiment-analyser-lib.svg)](http://hits.dwyl.io/ashhadulislam/sentiment-analyser-lib)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/sentimentanalyser.svg)](https://img.shields.io/pypi/dm/sentimentanalyser.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/ashhadulislam/sentiment-analyser-lib/badge/master)](https://www.codefactor.io/repository/github/ashhadulislam/sentiment-analyser-lib/overview/master) -->
-# KNNOR: K-Nearest Neighbor OveRsampling method
+# KNNOR-Reg: K-Nearest Neighbor OveRsampling method for Regression data
 
 ### About
-An oversampling technique for imbalanced datasets.
+An oversampling technique for imbalanced regression datasets.
 
 ### Installation
 
@@ -31,24 +31,6 @@ Convert your dataset to numpy array.
 All values of the data must be numeric.
 
 The last column must be the target value
-
-Function call: 5 inputs
-```
-augment(data=df.values,k=k,class_ind=1,N=45000,randmx=randmx)
-```
-- data is the array like input of data, last column of data is class label	
-- k is number of neighbors, it should be bigger or equal to 1
-- class_ind is the value of data that needs to be augmented. For example, if the class labels are 0 or 1 and the datapoints for 0 need to be upsampled, class_ind=0
-- N is the number of Datapoints that needs to be added
-- randmx will be a value between 0 and 1, inclusive. smaller the randmx, closer is the data to each original data. randmx, uniform[0,randmx], ; randmx<=1
-
-The outputs are:
-
-- Data_a: complete data with augmented datapoints
-
-- Ext_d: Only the augmented data points
-
-- Ext_not: The datapoints that was created but ignored
 
 Example implementation
 ```
