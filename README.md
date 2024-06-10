@@ -74,7 +74,7 @@ print(new_data)
 print("************************************")
 ```
 
-Example implementation using csv file. Makse sure the csv file is in the same location as the code	
+Example implementation using csv file. Make sure the csv file is in the same location as the code	
 ```
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -117,20 +117,27 @@ The documentation of the library is present at
 
 
 ### Citation
-If you are using this library in your research please cite the following.
+If you are using this library in your research please cite the following 3 papers.
 
-Ashhadul Islam, Samir Brahim Belhaouari, Atiq Ur Rahman, Halima Bensmail,
-KNNOR: An oversampling technique for imbalanced datasets,
-Applied Soft Computing,
-2021,
-108288,
-ISSN 1568-4946,
+Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2024). Oversampling techniques for imbalanced data in regression. Expert Systems with Applications, 252, 124118.
+https://doi.org/10.1016/j.eswa.2024.124118
+
+
+Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). KNNOR: An oversampling technique for imbalanced datasets. Applied Soft Computing, 115, 108288.
 https://doi.org/10.1016/j.asoc.2021.108288.
+
+
+Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). K Nearest Neighbor OveRsampling approach: An open source python package for data augmentation. Software Impacts, 12, 100272.
+https://doi.org/10.1016/j.simpa.2022.100272
+	
 
 (https://www.sciencedirect.com/science/article/pii/S1568494621010942)
 
 
 
 ### Authors
-- Ashhadul Islam: ashhadulislam@gmail.com, aislam@mail.hbku.edu.qa
+- Dr Ashhadul Islam: ashhadulislam@gmail.com, asislam@mail.hbku.edu.qa
 - Dr Samir Brahim Belhaouari: samir.brahim@gmail.com, sbelhaouari@hbku.edu.qa
+- Dr Khelil Kassoul 
+- Dr Ala Al-Fuqaha 
+- Dr Abdesselam Bouzerdoum
