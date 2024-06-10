@@ -119,19 +119,14 @@ The documentation of the library is present at
 ### Citation
 If you are using this library in your research please cite the following 3 papers.
 
-[1] Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2024). Oversampling techniques for imbalanced data in regression. Expert Systems with Applications, 252, 124118.
-https://doi.org/10.1016/j.eswa.2024.124118
+[1] Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2024). Oversampling techniques for imbalanced data in regression. Expert Systems with Applications, 252, 124118. https://doi.org/10.1016/j.eswa.2024.124118
 
 
-[2] Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). KNNOR: An oversampling technique for imbalanced datasets. Applied Soft Computing, 115, 108288.
-https://doi.org/10.1016/j.asoc.2021.108288.
+[2] Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). KNNOR: An oversampling technique for imbalanced datasets. Applied Soft Computing, 115, 108288. https://doi.org/10.1016/j.asoc.2021.108288.
 
 
 [3] Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). K Nearest Neighbor OveRsampling approach: An open source python package for data augmentation. Software Impacts, 12, 100272.
 https://doi.org/10.1016/j.simpa.2022.100272
-	
-
-(https://www.sciencedirect.com/science/article/pii/S1568494621010942)
 
 
 
