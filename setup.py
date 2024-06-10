@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
       name='knnor_reg',
-      version='0.0.2',
+      version='0.0.3',
       description='Generic python library to perform augmentation of regression data.',
       long_description='''A generic package to help data scientists balance their regression dataset by increasing the datapoints for underrepresented data.
       pip install knnor-reg
