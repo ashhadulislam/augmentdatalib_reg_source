@@ -129,8 +129,9 @@ The documentation of the library is present at: [Link to Read the Docs]
 If you are using this library in your research please cite the following papers:
 
 1. Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2024). Oversampling techniques for imbalanced data in regression. *Expert Systems with Applications*, 252, 124118. https://doi.org/10.1016/j.eswa.2024.124118
-2. Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). KNNOR: An oversampling technique for imbalanced datasets. *Applied Soft Computing*, 115, 108288. https://doi.org/10.1016/j.asoc.2021.108288.
-3. Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). K Nearest Neighbor OveRsampling approach: An open-source python package for data augmentation. *Software Impacts*, 12, 100272. https://doi.org/10.1016/j.simpa.2022.100272
+2. Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2025). KNNOR-Reg: A python package for oversampling in imbalanced regression. Software Impacts, 100740.
+3. Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). KNNOR: An oversampling technique for imbalanced datasets. *Applied Soft Computing*, 115, 108288. https://doi.org/10.1016/j.asoc.2021.108288.
+4. Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). K Nearest Neighbor OveRsampling approach: An open-source python package for data augmentation. *Software Impacts*, 12, 100272. https://doi.org/10.1016/j.simpa.2022.100272
 
 ## Authors
 
